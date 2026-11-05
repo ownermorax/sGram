@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="media" path="."/>
+    <files-path name="logs" path="/logs/"/>
+    <files-path name="cache" path="/cache/"/>
+    <files-path name="sgram_deleted" path="/sgram_deleted/"/>
+    <files-path name="sgram_update" path="/sgram_update/"/>
+    <cache-path name="sgram_plugin_share" path="sgram_plugin_share/"/>
+    <root-path name="external_files" path="/storage/" />
+</paths>
